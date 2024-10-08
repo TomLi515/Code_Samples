@@ -8,6 +8,10 @@ as part of the Retrieval Augmented Generation (RAG) process. In this code, I aim
 Each multi-turn dialogue has ten retrieved documents. I have innovatively designed a combination of RoBERTa and graph models like GCN and GAT to derive multi-turn dialogue embeddings. \
 Document embeddings, derived from RoBERTa, calculate the similarity with the multi-turn dialogue embeddings. A Soft Pairwise Loss, specially tailored for retrieval and ranking tasks, is applied during training.
 
-## train.sh
+## train_gcn.sh
 
-This is the .sh file that sets up and runs train.py.
+This is the .sh file that sets up and runs train.py. bf16, gradient checkpointing, and gradient accumulation are applied.
+
+## gcn_neg6_turn_final.log
+
+The sample log file that records the training setups, training process, and training results.
