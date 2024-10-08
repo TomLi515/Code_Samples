@@ -18,7 +18,7 @@ Overall, the results from both sections outperform the baseline model and fulfil
 
 ## Files
 
-For a detailed report, please refer to the final project paper. /
-For **Classifying Multiple Sentiment Classes:** section, please refer to sentiment_classification.ipynb/
-For **Segmenting Movie Review Sentences According to Various Aspects:** section, please refer to sentence preprocessing & aspect-segmentation.ipynb./
+For a detailed report, please refer to the final project paper. \
+For **Classifying Multiple Sentiment Classes:** section, please refer to sentiment_classification.ipynb\
+For **Segmenting Movie Review Sentences According to Various Aspects:** section, please refer to sentence preprocessing & aspect-segmentation.ipynb.\
 Thanks for your time to review the code and the project!
