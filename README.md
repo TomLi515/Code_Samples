@@ -1,5 +1,3 @@
-# Code_Samples
-
 # Sentiment Classification and Movie Review Aspect Analysis
 
 Sentiment classification, also referred to as opinion mining, is an approach that identifies the emotional tone behind a body of text. This is particularly useful for analyzing movie reviews, which is the focus of this NLP course project at NYU.
