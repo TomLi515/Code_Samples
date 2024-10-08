@@ -14,3 +14,11 @@ The project aimed to go beyond just classifying sentiments but to advance the un
 ## Conclusions
 
 Overall, the results from both sections outperform the baseline model and fulfill the requirements for sentiment analysis and aspect segmentation. By extending the scope of sentiment classification research, this project can be used to provide more personalized movie review recommendations and has the potential to impact various applications beyond movie reviews, such as product reviews and social media analysis.
+
+
+## Files
+
+For a detailed report, please refer to the final project paper. /
+For **Classifying Multiple Sentiment Classes:** section, please refer to sentiment_classification.ipynb/
+For **Segmenting Movie Review Sentences According to Various Aspects:** section, please refer to sentence preprocessing & aspect-segmentation.ipynb./
+Thanks for your time to review the code and the project!
